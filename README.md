@@ -35,7 +35,7 @@ PS: Make sure you browse sites below **using appropriate devices**.
 2. iPhone and Android Phone Version: <http://m.baidu.com/news>
 3. iPhone and Android Phone Version: <http://m.baidu.com/video>
 4. iPad Version: <http://m.baidu.com/video>
-5. others will be coming soon
+5. others will be coming soon;
 
 ## Demo Webapps
 
